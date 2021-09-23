@@ -1,6 +1,8 @@
 # Stochastic Analysis and Applications
 Thank you for agreeing to speak in the special session on Stochastic Analysis and Applications at the AMS Fall 2021 Southeastern Sectional meeting. This is only a *tentative* schedule, please let us know by Sept. 28 if any changes that you want us to make. Thanks a lot~! 
 
+* Note that all time is the local Alabama time, namely, *Central Time* (CT).
+
 ### Saturday
 #### Section 1-1
 * 8:00-8:20
@@ -76,7 +78,7 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
 #### Section 2-2
 * 1:30-1:50
   *  Sarantsev  Andrey
-  *  91-10:  A stock market model based on CAMP and market size
+  *  91-10:  A stock market model based on CAPM and market size
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-91-10.pdf)
 * 2:00-2:20
   *  Kobayashi  Kei
