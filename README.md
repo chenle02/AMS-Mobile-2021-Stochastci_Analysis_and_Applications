@@ -1,5 +1,5 @@
 # Stochastic Analysis and Applications
-Thanks for Thank you for agreeing to speak in the special session on Stochastic Analysis and Applications at the AMS Fall 2021 Southeastern Sectional meeting. This is the tentative schedule, please let us know by Sept. 28 if any changes that you want us to make. Thanks a lot~! 
+Thank you for agreeing to speak in the special session on Stochastic Analysis and Applications at the AMS Fall 2021 Southeastern Sectional meeting. This is only a *tentative* schedule, please let us know by Sept. 28 if any changes that you want us to make. Thanks a lot~! 
 
 ### Saturday
 #### Section 1-1
