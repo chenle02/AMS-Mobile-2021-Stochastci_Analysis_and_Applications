@@ -40,6 +40,8 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
   *  Wang  Xiong
   *  60-32:  Intermittency properties for a large class of stochastic PDEs driven by fractional space-time noises
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-32.pdf)
+* 3:30-4:00
+  *  Informal Discussion
 #### Section 1-3
 * 4:00-4:20
   *  Khoshnevisan  Davar
@@ -57,6 +59,8 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
   *  Eisenberg  Nickolas
   *  60-88:  Interpolating the stochastic heat and wave equations with time-independent noise: solvability and exact asymptotic
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-88.pdf)
+* 6:00-6:30
+  *  Informal Discussion
 
 
 ### Sunday
@@ -77,6 +81,9 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
   *  Sundar  Padmanabhan
   *  60-117:  A class of stochastic partial differential equations in fluid dynamics: large and moderate deviation
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-117.pdf)
+* 11:00-11:30
+  *  Informal Discussion
+
 #### Section 2-2
 * 1:30-1:50
   *  Sarantsev  Andrey
@@ -94,6 +101,8 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
   *  Cheng  Jiaqi
   *  92-78:  Dynamics of the lottery competition model in stochastic environments
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-92-78.pdf)
+* 3:30-4:00
+  *  Informal Discussion
 #### Section 2-3
 * 4:00-4:20
   *  Krinik  Alan
