@@ -21,6 +21,8 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
   *  Erkan  Nane
   *  60-106:  Blow-up results for space-time fractional dynamics
   * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-106.pdf)
+* 10:00-10:30
+  *  Informal Discussion
 #### Section 1-2
 * 1:30-1:50
   *  Nualart  David
