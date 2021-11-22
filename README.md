@@ -11,7 +11,7 @@
 * 8:00-8:20
   *  Balan  Raluca
   *  60-69:  Stratonovich solution for the wave equation
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-69.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-69.pdf) [Slides](Slides/Balan_Raluca.pdf)
 * 8:30-8:50
   *  Chong  Carsten
   *  60-209:  The stochastic heat equation with multiplicative Levy noise: Existence Moments and Intermittency
