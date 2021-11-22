@@ -1,7 +1,8 @@
-# Stochastic Analysis and Applications
-Thank you for agreeing to speak in the special session on Stochastic Analysis and Applications at the AMS Fall 2021 Southeastern Sectional meeting. This is only a *tentative* schedule, please let us know by Sept. 28 if any changes that you want us to make. Thanks a lot~! 
+# 2021 Fall Southeastern Sectional Meeting (Virtual, originally Mobile, AL)
+## Special sessions on _Stochastic Analysis and Applications_
 
 * Note that all time is the local Alabama time, namely, *Central Time* (CT).
+* List of talks
 
 ### Saturday
 #### Section 1-1
