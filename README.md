@@ -38,7 +38,7 @@
 * 2:30-2:50
   *  Liu  Yanghui
   *  60-96:  Numerical approximations for rough differential equations
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-96.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-96.pdf) [Slides](Slides/Liu_Yanghui.pdf)
 * 3:00-3:20
   *  Wang  Xiong
   *  60-32:  Intermittency properties for a large class of stochastic PDEs driven by fractional space-time noises
@@ -75,7 +75,7 @@
 * 9:30-9:50
   *  Wang  Yizao
   *  60-232:  Phase transition for extremes of a family of multiple-stable processes: the macroscopic level
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-232.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-232.pdf) [Slides](Slides/Wang_Yizao.pdf)
 * 10:00-10:20
   *  Fatheddin  Parisa
   *  60-9:  Large Deviations for stochastic Schrodinger and Navier-Stokes equations
