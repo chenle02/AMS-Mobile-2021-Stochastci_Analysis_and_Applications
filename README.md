@@ -27,7 +27,7 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
 * 1:30-1:50
   *  Nualart  David
   *  60-240:  Convergence of densities for the stochastic heat equation
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-240.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-240.pdf) [Slides](Slides/Nualart_David.pdf)
 * 2:00-2:20
   *  Ouyang  Cheng
   *  60-198:  Equivalence of control distances
@@ -50,7 +50,7 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
 * 4:30-4:50
   *  Hu  Yaozhong
   *  60-145:  Nonlinear stochastic wave driven by rough fractional noise
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-145.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-145.pdf) [Slides](Slides/Hu_Yaozhong.pdf)
 * 5:00-5:20
   *  Clark  Jeremy
   *  60-127:  Continuum models of directed polymers on disordered diamond fractals in the critical case
@@ -58,7 +58,7 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
 * 5:30-5:50
   *  Eisenberg  Nickolas
   *  60-88:  Interpolating the stochastic heat and wave equations with time-independent noise: solvability and exact asymptotic
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-88.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-88.pdf) [Slides](Slides/Eisenberg_Nicholas.pdf)
 * 6:00-6:30
   *  Informal Discussion
 
@@ -111,7 +111,7 @@ Thank you for agreeing to speak in the special session on Stochastic Analysis an
 * 4:30-4:50
   *  Zhu  Lingjiong
   *  60-70:  Stochastic gradient Hamiltonian Monte Carlo for non-convex stochastic optimization
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-70.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-70.pdf) [Slides](Slides/Zhu_Lingjiong.pdf)
 * 5:00-5:20
   *  Wang  Chuntian
   *  60-4:  Time discrete approximation of weak solutions to stochastic equations of geophysical fluid dynamics and applications
