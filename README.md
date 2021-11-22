@@ -1,6 +1,7 @@
 # 2021 Fall Southeastern Sectional Meeting (Virtual, originally Mobile, AL)
 ## Special sessions on _Stochastic Analysis and Applications_
 
+* [Official conference website](https://www.ams.org/meetings/sectional/2283_program.html)
 * Note that all time is the local Alabama time, namely, *Central Time* (CT).
 * List of talks (some slides are available)
 
