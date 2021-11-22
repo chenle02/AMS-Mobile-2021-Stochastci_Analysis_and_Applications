@@ -2,7 +2,7 @@
 ## Special sessions on _Stochastic Analysis and Applications_
 
 * Note that all time is the local Alabama time, namely, *Central Time* (CT).
-* List of talks
+* List of talks (some slides are available)
 
 ### Saturday
 #### Section 1-1
