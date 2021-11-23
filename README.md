@@ -42,7 +42,7 @@
 * 3:00-3:20
   *  Wang  Xiong
   *  60-32:  Intermittency properties for a large class of stochastic PDEs driven by fractional space-time noises
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-32.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-32.pdf) [Slides](Slides/Wang_Xiong.pdf)
 * 3:30-4:00
   *  Informal Discussion
 #### Section 1-3
