@@ -83,7 +83,7 @@
 * 10:30-10:50
   *  Sundar  Padmanabhan
   *  60-117:  A class of stochastic partial differential equations in fluid dynamics: large and moderate deviation
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-117.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-117.pdf) [Slides](Slides/Sundar_Padmanabhan.pdf)
 * 11:00-11:30
   *  Informal Discussion
 
