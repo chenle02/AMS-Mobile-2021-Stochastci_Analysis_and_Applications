@@ -15,7 +15,7 @@
 * 8:30-8:50
   *  Chong  Carsten
   *  60-209:  The stochastic heat equation with multiplicative Levy noise: Existence Moments and Intermittency
-  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-209.pdf)
+  * [abstract](http://www.ams.org/amsmtgs/2289_abstracts/1173-60-209.pdf) [Slides](Slides/Chong_Carsten.pdf)
 * 9:00-9:20
   *  Conus  Daniel
   *  60-247:  Intermittency properties for SPDEs driven by a fractional-type noise: the Dobric-Ojeda noise
